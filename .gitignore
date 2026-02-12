@@ -2,3 +2,6 @@
 *.srt
 *.backup
 *.md
+
+# keep those files
+!README.md
